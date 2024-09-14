@@ -7,6 +7,10 @@ body{
     background-color: rgb(0, 0, 0);
 }
 
+a{
+    margin-right: 15px;
+}
+
 .menu{
     height: 200px;
     background-color: #CAD848;
